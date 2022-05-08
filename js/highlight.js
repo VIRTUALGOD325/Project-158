@@ -13,8 +13,8 @@ AFRAME.registerComponent("cursor-listener", {
         const postersId = [
           "superman",
           "spiderman",
-          "captain-aero",
-          "outer-space",
+          "archie",
+          "batman",
         ];
         if (postersId.includes(id)) {
           const postersContainer = document.querySelector("#posters-container");
